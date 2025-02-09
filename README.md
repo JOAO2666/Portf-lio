@@ -1,29 +1,29 @@
-# João Emanuel - Portfolio
+# João Emanuel - Portfólio
 
-Welcome to my portfolio! Here you'll find a collection of my work and projects that showcase my skills and experience.
+Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus trabalhos e projetos que demonstram minhas habilidades e experiência.
 
-## About Me
+## Sobre Mim
 
-I'm João Emanuel, a passionate developer focused on creating engaging and functional web experiences. This portfolio demonstrates my abilities in web development and design.
+Sou João Emanuel, um desenvolvedor apaixonado focado em criar experiências web envolventes e funcionais. Este portfólio demonstra minhas habilidades em desenvolvimento e design web.
 
-## Projects
+## Projetos
 
-This portfolio includes various projects and designs, showcasing my work in:
-- Web Development
-- Responsive Design
-- UI/UX Design
-- Interactive Interfaces
+Este portfólio inclui vários projetos e designs, mostrando meu trabalho em:
+- Desenvolvimento Web
+- Design Responsivo
+- Design de Interface (UI/UX)
+- Interfaces Interativas
 
-## Technologies Used
+## Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
-- Modern Web Development Practices
+- Práticas Modernas de Desenvolvimento Web
 
-## Contact
+## Contato
 
-Feel free to reach out to me for collaborations or opportunities!
+Fique à vontade para entrar em contato comigo para colaborações ou oportunidades!
 
 ---
-© 2025 João Emanuel. All rights reserved.
+© 2025 João Emanuel. Todos os direitos reservados.
